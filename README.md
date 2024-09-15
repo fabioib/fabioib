@@ -1,4 +1,4 @@
-<img align="right" src="https://wiryco.github.io/icones/Logo%20Vinicius%2025-11-2018.png" width="250"/>
+<img align="right" src="https://github.com/fabioib/fabioib/blob/d3115a3c06abb272f6ad3d758e9566c0f6116dba/dataanalytic.png" width="250"/>
 
 ### Olá, bem vindo!. Me chamo Fábio José Pereira Alves 👋
 
