@@ -3,7 +3,7 @@
 ### Olá, bem vindo!. Me chamo Fábio José Pereira Alves 👋
 
 - 🚀 Atualmente estou em transição de carreira para área de dados.
-- 💻 Analista de Dados | Python | SQL | ETL | BI | PANDA. 
+- 💻 Analista de Dados | Python | SQL | ETL | Power BI | PANDA. 
 - ✨ Constante aprendizado sobre Análise de Dados, SQL e Business Intelligence.
 
 <div  align="center" style="margin-bottom:100px">
